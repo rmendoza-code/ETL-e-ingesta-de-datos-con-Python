@@ -1,0 +1,4 @@
+# Añade aquí las dependencias de tu proyecto, por ejemplo:
+pandas
+numpy
+# Si usas otros paquetes, añádelos aquí
